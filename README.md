@@ -45,3 +45,5 @@ Supervised learning models require accurately labeled data. Ground Truth helps o
 2. **Human Labeling**: Create a labeling job with specific instructions.
 3. **Active Learning**: SageMaker uses ML to auto-label easy data. Only ambiguous or uncertain data is sent to humans.
 4. **Quality Control**: Collect and review completed labels, then store them in Amazon S3.
+
+LinkedIn Link: https://www.linkedin.com/in/raj-kumar-giri-348763192/
